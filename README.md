@@ -1,6 +1,5 @@
 <div id="top"></div>
 
-<br/>
   <h2 align="center">Discord Vanity Swapper</h3>
 
   <p align="center">

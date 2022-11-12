@@ -3,7 +3,7 @@
   <h2 align="center">Discord Vanity Swapper</h3>
 
   <p align="center">
-    Swaps a vanity from one server to another using the same account. Releasing this at 15 followers/stars.
+    Swaps a vanity from one server to another using the same account.
     <br />
     <br />
   </p>

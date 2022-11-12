@@ -1,0 +1,9 @@
+[sniper]
+
+discord_token="x"
+
+[webhook]
+
+title="New Snipe!"
+message="Succesfully swapped `[vanity]` in `[time]` seconds."
+webhook_link="https://discord.com/api/webhooks/"

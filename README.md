@@ -9,7 +9,7 @@
   </p>
 
 <div align="center">
-  <a href="https://github.com/kiIogram/GitHub-Username-Checker">
+  <a href="https://github.com/pyp/Discord-Vanity-Swapper">
     <img src="https://i.imgur.com/4E722h7.png" alt="Logo">
   </a>
   

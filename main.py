@@ -7,7 +7,6 @@ from concurrent.futures import ThreadPoolExecutor
 from modules import Client
 from urllib.parse import urlencode
 from modules import Client
-from modules import Auth
 
 class sniper:
     def __init__(self):
